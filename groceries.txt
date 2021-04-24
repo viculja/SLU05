@@ -4,3 +4,4 @@ coca-cola
 fanta
 sparkling water
 butter
+eggs
